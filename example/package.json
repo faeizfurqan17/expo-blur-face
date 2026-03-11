@@ -11,7 +11,7 @@
   "dependencies": {
     "expo": "~54.0.33",
     "expo-image-picker": "~17.0.10",
-    "expo-blur-face": "file:..",
+    "expo-blur-face": "^1.0.0",
     "react": "19.1.0",
     "react-native": "0.81.5"
   },
@@ -19,10 +19,5 @@
     "@types/react": "~19.1.0",
     "typescript": "~5.9.2"
   },
-  "private": true,
-  "expo": {
-    "autolinking": {
-      "nativeModulesDir": ".."
-    }
-  }
+  "private": true
 }
