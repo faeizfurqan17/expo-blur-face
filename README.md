@@ -5,6 +5,8 @@
 [![license](https://img.shields.io/npm/l/expo-blur-face.svg)](./LICENSE)
 [![platforms](https://img.shields.io/badge/platforms-iOS%20%7C%20Android-lightgrey.svg)](https://github.com/faeizfurqan17/expo-blur-face)
 
+![Demo](./assets/demo.gif)
+
 On-device face detection and blurring for React Native / Expo.
 
 Uses **Vision** on iOS and **ML Kit** on Android — no server calls, no FFmpeg, no permissions required. Just install and blur.
