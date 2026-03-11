@@ -1,0 +1,9 @@
+{
+  "extends": "expo-module-scripts/tsconfig.example",
+  "compilerOptions": {
+    "paths": {
+      "expo-blur-face": ["../src/index"],
+      "expo-blur-face/*": ["../src/*"]
+    }
+  }
+}

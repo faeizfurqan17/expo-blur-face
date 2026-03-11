@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["ExpoBlurFaceModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.blurface.ExpoBlurFaceModule"]
+  }
+}
